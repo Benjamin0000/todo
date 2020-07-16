@@ -1,0 +1,17 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "MY TODO APP",
+  "short_name": "MY TODO APP",
+  "version": "io.cordova.hellocordova",
+  "description": "A sample Apache Cordova application that responds to the deviceready event.",
+  "author": "Apache Cordova Team",
+  "icons": [
+    {
+      "src": "res/logo.png",
+      "type": "image/png",
+      "sizes": "undefinedxundefined"
+    }
+  ],
+  "start_url": "index.html"
+}
